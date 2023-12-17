@@ -7,11 +7,11 @@ This repository aims to record valuable LLM-related material. Rather than includ
 ## Contents
 
 - [Prompt](#Prompt)
-  - [How to design a prompt?](#How-to-design-a-prompt?)
+  - [How to design a prompt?](#How-to-design-a-prompt)
 - [RAG](#RAG)
 
 # Prompt
-## How to design a prompt?
+## How to design a prompt
 - [Prompt Engineering Guide](https://www.promptingguide.ai/zh/introduction/tips)
 - [Microsoft Design Prompt](https://blog.aixcopilot.com/microsoft-official-prompt-tutorial-advanced-prompt-design-and-engineering)
 
