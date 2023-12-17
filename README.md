@@ -7,7 +7,7 @@ This repository aims to record valuable LLM-related material. Rather than includ
 ## Contents
 
 - [Prompt](#Prompt)
-  - [How to design a prompt?](#How to design a prompt?)
+  - [How to design a prompt?](#How-to-design-a-prompt?)
 - [RAG](#RAG)
 
 # Prompt
