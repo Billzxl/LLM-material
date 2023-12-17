@@ -11,7 +11,7 @@ Prompt is everywhere
 
 ## How to use RAG?
 -  [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#a5e2)
--  [LlamaIndex talk](./LlamaIndex_Talk.pdf)
+-  [LlamaIndex talk](RAG/LlamaIndex_Talk.pdf)
 -  [Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)
 
 ## Some Papers
