@@ -1,6 +1,16 @@
 # Large Language Model material
 
-This repository aims to record valuable LLM-related material. Rather than including all available material, we will focus on curating a collection of the most valuable resources. We use the symbol ✅ to indicate that the material has been read and the symbol ⭐ to indicate that it is a standout material. We will provide a brief review of each material in the near future. If some material you think is good isn't included (probably your work), PULL A REQUEST!
+This repository aims to record valuable LLM-related material. 
+
+There is already tons of material on LLM. To keep from getting lost in it, we build this repository. **Rather than including all available material, we will focus on curating a collection of the most valuable resources.** If some material you think is good isn't included (maybe your work), PULL A REQUEST! We will provide a brief review of each material in the near future. 
+
+✅ indicates that a material has been read by us 
+
+⭐ indicates that a material is excellent and probably worth reading
+
+🔥 indicates that a material is well known in its field
+
+
 
 ---
 
@@ -14,14 +24,14 @@ This repository aims to record valuable LLM-related material. Rather than includ
   - [Papers](#Papers)
 
 
-# Prompt
+# Prompt 🚀
 ## How to design a prompt
 - [Prompt Engineering Guide](https://www.promptingguide.ai/zh/introduction/tips)
 - [Microsoft Design Prompt](https://blog.aixcopilot.com/microsoft-official-prompt-tutorial-advanced-prompt-design-and-engineering)
 
 
 ---
-# RAG
+# RAG 🚀
 
 
 ## Understanding RAG
