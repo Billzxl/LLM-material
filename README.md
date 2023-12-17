@@ -1,6 +1,6 @@
 # Large Language Model material
 
-This repository aims to record valuable LLM-related material. Rather than including all available material, we will focus on curating a collection of the most valuable resources.  We will provide a brief review of each material in the near future. If some material you think is good isn't included (probably your work), PULL A REQUEST!
+This repository aims to record valuable LLM-related material. Rather than including all available material, we will focus on curating a collection of the most valuable resources. We use the symbol ✅ to indicate that the material has been read and the symbol ⭐ to indicate that it is a standout material. We will provide a brief review of each material in the near future. If some material you think is good isn't included (probably your work), PULL A REQUEST!
 
 ---
 
