@@ -1,9 +1,12 @@
-# Some RAG-related materials
-
-## Prompt
-Prompt is everywhere
+# Prompt
+## How to design prompt?
 - [Prompt Engineering Guide](https://www.promptingguide.ai/zh/introduction/tips)
 - [Microsoft Design Prompt](https://blog.aixcopilot.com/microsoft-official-prompt-tutorial-advanced-prompt-design-and-engineering)
+
+
+---
+# RAG
+
 
 ## Understanding RAG
 -  [Large Language Models and Search](https://weaviate.io/blog/llms-and-search)
