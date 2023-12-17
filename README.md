@@ -1,12 +1,12 @@
 # Large Language Model material
 
-This repository aims to record valuable LLM-related material. 
+This repository aims to record valuable, useful, and interesting LLM-related materials. 
 
-There is already tons of material on LLM. To keep from getting lost in it, we built this repository. **Rather than including all available material, we will focus on curating a collection of the most valuable, useful, and interesting material.** If some material you think is good isn't included, PULL A REQUEST! We will provide a brief review of each material in the near future. 
+There are already tons of materials on LLM. To keep from getting lost in them, we built this repository. **Rather than including all available materials, we will focus on curating a collection of the most valuable, useful, and interesting materials.** We read and evaluate all materials in person, and since this takes a long time, we also include the materials that look good for future reading. If some materials you think are good aren't included, PULL A REQUEST! We will provide a brief review of each material in the near future. 
 
-✅ indicates that a material has been read by us 
+✅ indicates that we have read a material 
 
-⭐ indicates that a material is excellent and probably worth reading
+⭐ indicates that we think a material is excellent and probably worth reading
 
 🔥 indicates that a material is well-known in its field or popular now
 
