@@ -2,7 +2,7 @@
 
 This repository aims to record valuable LLM-related material. 
 
-There is already tons of material on LLM. To keep from getting lost in it, we built this repository. **Rather than including all available material, we will focus on curating a collection of the most valuable, useful, and interesting material.** If some material you think is good isn't included (maybe your work), PULL A REQUEST! We will provide a brief review of each material in the near future. 
+There is already tons of material on LLM. To keep from getting lost in it, we built this repository. **Rather than including all available material, we will focus on curating a collection of the most valuable, useful, and interesting material.** If some material you think is good isn't included, PULL A REQUEST! We will provide a brief review of each material in the near future. 
 
 ✅ indicates that a material has been read by us 
 
