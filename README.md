@@ -22,6 +22,10 @@ There is already tons of material on LLM. To keep from getting lost in it, we bu
   - [Understanding RAG](#Understanding-RAG)
   - [How to use RAG](#How-to-use-RAG)
   - [Papers](#Papers)
+- [Fine-tune](Fine-tune)
+  - [Papers](#Papers)
+- [Agent](Agent)
+  - [Papers](#Papers)
 
 
 # Prompt 🚀
@@ -32,7 +36,6 @@ There is already tons of material on LLM. To keep from getting lost in it, we bu
 
 ---
 # RAG 🚀
-
 
 ## Understanding RAG
 -  [Large Language Models and Search](https://weaviate.io/blog/llms-and-search)
@@ -54,4 +57,19 @@ There is already tons of material on LLM. To keep from getting lost in it, we bu
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context (ICML2023)](https://arxiv.org/pdf/2302.00093.pdf)
 - [Making Retrieval-Augmented Language Models Robust to Irrelevant Context (ICLR2024)](https://arxiv.org/pdf/2310.01558.pdf)
-- [Retrieval-Generation Synergy Augmented Large Language Models (arxiv)](https://arxiv.org/pdf/2310.05149.pdf)
+- [Retrieval-Generation Synergy Augmented Large Language Models (Arxiv)](https://arxiv.org/pdf/2310.05149.pdf)
+
+---
+# Fine-tune 🚀
+  
+## Papers
+
+
+---
+# Agent 🚀
+  
+## Papers
+
+**A survey:** [The Rise and Potential of Large Language Model Based Agents: A Survey (Arxiv)](https://arxiv.org/pdf/2309.07864.pdf)
+
+
