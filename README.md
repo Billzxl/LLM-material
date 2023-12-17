@@ -44,7 +44,6 @@ There is already tons of material on LLM. To keep from getting lost in it, we bu
 -  [Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)
 
 ## Papers
-### Published
 - **Facebook Introduces the concept of RAG:** [Retrieval-augmented generation for knowledge-intensive nlp tasks (NIPS2020)](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 - **HyDE**: [Precise Zero-Shot Dense Retrieval without Relevance Labels (ACL2023)](https://arxiv.org/pdf/2212.10496.pdf)
 - [REALM: Retrieval-Augmented Language Model Pre-Training (ICML2020)]()
@@ -55,6 +54,4 @@ There is already tons of material on LLM. To keep from getting lost in it, we bu
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context (ICML2023)](https://arxiv.org/pdf/2302.00093.pdf)
 - [Making Retrieval-Augmented Language Models Robust to Irrelevant Context (ICLR2024)](https://arxiv.org/pdf/2310.01558.pdf)
-
-### Preprint
-- [Retrieval-Generation Synergy Augmented Large Language Models](https://arxiv.org/pdf/2310.05149.pdf)
+- [Retrieval-Generation Synergy Augmented Large Language Models (arxiv)](https://arxiv.org/pdf/2310.05149.pdf)
