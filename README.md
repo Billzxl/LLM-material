@@ -1,5 +1,17 @@
+# Large Language Model material
+
+This repository aims to record valuable LLM-related material. Rather than including all available material, we will focus on curating a collection of the most valuable resources.  We will comment on it as best we can. If some material you think is good isn't included (probably your work), PULL A REQUEST!
+
+---
+
+## Contents
+
+- [Prompt](#Prompt)
+  - [How to design a prompt?](#How to design a prompt?)
+- [RAG](#RAG)
+
 # Prompt
-## How to design prompt?
+## How to design a prompt?
 - [Prompt Engineering Guide](https://www.promptingguide.ai/zh/introduction/tips)
 - [Microsoft Design Prompt](https://blog.aixcopilot.com/microsoft-official-prompt-tutorial-advanced-prompt-design-and-engineering)
 
