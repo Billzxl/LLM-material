@@ -7,8 +7,12 @@ This repository aims to record valuable LLM-related material. Rather than includ
 ## Contents
 
 - [Prompt](#Prompt)
-  - [How to design a prompt?](#How-to-design-a-prompt)
+  - [How to design a prompt](#How-to-design-a-prompt)
 - [RAG](#RAG)
+  - [Understanding RAG](#Understanding-RAG)
+  - [How to use RAG](#How-to-use-RAG)
+  - [Papers](#Papers)
+
 
 # Prompt
 ## How to design a prompt
@@ -24,12 +28,12 @@ This repository aims to record valuable LLM-related material. Rather than includ
 -  [Large Language Models and Search](https://weaviate.io/blog/llms-and-search)
 -  [ACL 2023 Tutorial: Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
 
-## How to use RAG?
+## How to use RAG
 -  [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#a5e2)
 -  [LlamaIndex talk](RAG/LlamaIndex_Talk.pdf)
 -  [Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)
 
-## Some Papers
+## Papers
 ### Published
 - **Facebook Introduces the concept of RAG:** [Retrieval-augmented generation for knowledge-intensive nlp tasks (NIPS2020)](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 - **HyDE**: [Precise Zero-Shot Dense Retrieval without Relevance Labels (ACL2023)](https://arxiv.org/pdf/2212.10496.pdf)
