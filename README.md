@@ -93,6 +93,11 @@ We will improve other aspects of the repository within 1 to 2 months
   
 ## Papers
 
-**A survey:** [The Rise and Potential of Large Language Model Based Agents: A Survey (Arxiv)](https://arxiv.org/pdf/2309.07864.pdf) **A nice survey for LLM Agent**✅🚩
+- **A survey:** [The Rise and Potential of Large Language Model Based Agents: A Survey (Arxiv)](https://arxiv.org/pdf/2309.07864.pdf) **A nice survey for LLM Agent**✅🚩
+- **Another survey:** [A Survey on Large Language Model based Autonomous Agents (Arxiv)](https://arxiv.org/pdf/2308.11432.pdf)
+- [Cognitive Architectures for Language Agents (Arxiv)](https://arxiv.org/pdf/2309.02427.pdf)
+- **WarAgent:** [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars (Arxiv)](https://arxiv.org/pdf/2311.17227.pdf)
+- **Game Agent:** [Human-level play in the game of Diplomacy by combining language models with strategic reasoning (Science)](https://www.science.org/doi/10.1126/science.ade9097)
+- **Agent Society CAMEL:** [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeurIPS2023)](https://ghli.org/camel.pdf)
 
 
