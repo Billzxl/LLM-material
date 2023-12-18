@@ -16,7 +16,7 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 
 ## Contents
 
-- [Overview](#Large-Language-Models-Overview)
+- [Overview](#Large-Language-Models-Overview-🚀)
 - [Prompt](#Prompt)
   - [How to design a prompt](#How-to-design-a-prompt)
 - [RAG](#RAG)
@@ -28,7 +28,7 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 - [Agent](#Agent)
   - [Papers](#Papers)
 
-# Large Language Models Overview 🚀 <a name="Large-Language-Models-Overview"></a>
+# Large Language Models Overview 🚀
 ## Fine-tune V.S. RAG
 - [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/pdf/2312.05934.pdf)
 - [(Video) Openai Talk: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&list=PLzgksPT5cGTXoNjSfbmDKsSxMbXJ4WX_1&index=1&t=1s)
