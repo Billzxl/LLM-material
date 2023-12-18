@@ -2,6 +2,8 @@
 
 **This repository aims to keep track of the most worthwhile reading materials related to LLM. Rather than including all available materials, we focus on curating a collection of the most valuable, useful, and interesting materials.**
 
+**We are eager to seek more collaborators, so if you would like to contribute, more than WELCOME!**
+
 There are tons of materials on LLM. To keep from getting lost in them, we built this repository. We read every material in person to make sure they are worthy of being here. Since this takes a long time, we also include the materials that look good for future reading. If some materials you think are good aren't included, PULL A REQUEST! If you find this useful or want to follow our progress, we look forward to your ⭐!
 
 ✅ indicates that we have read a material and believe it is worth preserving
