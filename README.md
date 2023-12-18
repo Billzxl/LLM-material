@@ -17,7 +17,7 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 ## Contents
 
 - [Overview](#overview)
-- [Prompt](#Prompt)
+- [Prompt](#prompt)
   - [How to design a prompt](#How-to-design-a-prompt)
 - [RAG](#RAG)
   - [Understanding RAG](#Understanding-RAG)
@@ -33,7 +33,7 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 - [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/pdf/2312.05934.pdf)
 - [(Video) Openai Talk: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&list=PLzgksPT5cGTXoNjSfbmDKsSxMbXJ4WX_1&index=1&t=1s)
 
-# Prompt 🚀<a name="Prompt"></a>
+# Prompt 🚀<a name="prompt"></a>
 ## How to design a prompt
 - [(in Chinese) Prompt Engineering Guide](https://www.promptingguide.ai/zh/introduction/tips)
 - [(in Chinese) Microsoft Design Prompt](https://blog.aixcopilot.com/microsoft-official-prompt-tutorial-advanced-prompt-design-and-engineering)
