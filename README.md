@@ -2,11 +2,11 @@
 
 This repository aims to record valuable, useful, and interesting LLM-related materials. 
 
-There are already tons of materials on LLM. To keep from getting lost in them, we built this repository. **Rather than including all available materials, we will focus on curating a collection of the most valuable, useful, and interesting materials.** We read and evaluate all materials in person, and since this takes a long time, we also include the materials that look good for future reading. If some materials you think are good aren't included, PULL A REQUEST! We will provide a brief review of each material in the near future. 
+There are already tons of materials on LLM. To keep from getting lost in them, we built this repository. **Rather than including all available materials, we will focus on curating a collection of the most valuable, useful, and interesting materials.** We read and evaluate all materials in person, and since this takes a long time, we also include the materials that look good for future reading. If some materials you think are good aren't included, PULL A REQUEST! If you find this useful or want to follow our progress, we look forward to your ⭐!
 
 ✅ indicates that we have read a material 
 
-⭐ indicates that we think a material is excellent and probably worth reading
+🚩 indicates that we think a material is excellent and probably worth reading
 
 🔥 indicates that a material is well-known in its field or popular now
 
@@ -15,7 +15,7 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 ---
 
 ## Contents
-
+- [For Readers](#forreaders)
 - [Overview](#overview)
 - [Prompt](#prompt)
   - [How to design a prompt](#How-to-design-a-prompt)
@@ -28,6 +28,14 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 - [Agent](#agent)
   - [Papers](#Papers)
 
+
+# For Readers <a name="forreaders"></a>
+We will gradually expand the contents of this repository, which is an ongoing long-term endeavor.
+
+## 2023.12.18 Announcement
+We'll be focusing on updating RAG-related content for 1 to 2 weeks
+
+We will improve other aspects of the repository within 1 to 2 months
 # Large Language Models Overview 🚀 <a name="overview"></a>
 ## Fine-tune V.S. RAG
 - [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/pdf/2312.05934.pdf)
@@ -74,6 +82,6 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
   
 ## Papers
 
-**A survey:** [The Rise and Potential of Large Language Model Based Agents: A Survey (Arxiv)](https://arxiv.org/pdf/2309.07864.pdf) **A nice survey for LLM Agent**✅⭐
+**A survey:** [The Rise and Potential of Large Language Model Based Agents: A Survey (Arxiv)](https://arxiv.org/pdf/2309.07864.pdf) **A nice survey for LLM Agent**✅🚩
 
 
