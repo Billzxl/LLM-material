@@ -19,13 +19,13 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 - [Overview](#overview)
 - [Prompt](#prompt)
   - [How to design a prompt](#How-to-design-a-prompt)
-- [RAG](#RAG)
+- [RAG](#rag)
   - [Understanding RAG](#Understanding-RAG)
   - [How to use RAG](#How-to-use-RAG)
   - [Papers](#Papers)
-- [Fine-tune](#Fine-tune)
+- [Fine-tune](#finetune)
   - [Papers](#Papers)
-- [Agent](#Agent)
+- [Agent](#agent)
   - [Papers](#Papers)
 
 # Large Language Models Overview 🚀 <a name="overview"></a>
@@ -40,7 +40,7 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 
 
 ---
-# RAG 🚀<a name="RAG"></a>
+# RAG 🚀<a name="rag"></a>
 
 ## Understanding RAG
 -  [Large Language Models and Search](https://weaviate.io/blog/llms-and-search)
@@ -64,13 +64,13 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 - [Retrieval-Generation Synergy Augmented Large Language Models (Arxiv)](https://arxiv.org/pdf/2310.05149.pdf)
 
 ---
-# Fine-tune 🚀<a name="Fine-tune"></a>
+# Fine-tune 🚀<a name="finetune"></a>
   
 ## Papers
 
 
 ---
-# Agent 🚀<a name="Agent"></a>
+# Agent 🚀<a name="agent"></a>
   
 ## Papers
 
