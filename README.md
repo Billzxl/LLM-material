@@ -74,9 +74,10 @@ We will improve other aspects of the repository within 1 to 2 months
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context (ICML2023)](https://arxiv.org/pdf/2302.00093.pdf)
 - [Making Retrieval-Augmented Language Models Robust to Irrelevant Context (ICLR2024)](https://arxiv.org/pdf/2310.01558.pdf)
+- [Few-shot Learning with Retrieval Augmented Language Models (JMLR2022)](https://arxiv.org/pdf/2208.03299.pdf)
 - [Retrieval-Generation Synergy Augmented Large Language Models (Arxiv)](https://arxiv.org/pdf/2310.05149.pdf)
 - [Enabling Large Language Models to Generate Text with Citations (Arxiv)](https://arxiv.org/pdf/2305.14627.pdf)
-- [Dense X Retrieval: What Retrieval Granularity Should We Use?](https://arxiv.org/pdf/2312.06648.pdf)
+- [Dense X Retrieval: What Retrieval Granularity Should We Use? (Arxiv)](https://arxiv.org/pdf/2312.06648.pdf)
 
 ---
 # Fine-tune 🚀<a name="finetune"></a>
