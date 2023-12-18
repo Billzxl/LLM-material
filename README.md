@@ -4,7 +4,7 @@ This repository aims to record valuable, useful, and interesting LLM-related mat
 
 There are already tons of materials on LLM. To keep from getting lost in them, we built this repository. **Rather than including all available materials, we will focus on curating a collection of the most valuable, useful, and interesting materials.** We read and evaluate all materials in person, and since this takes a long time, we also include the materials that look good for future reading. If some materials you think are good aren't included, PULL A REQUEST! If you find this useful or want to follow our progress, we look forward to your ⭐!
 
-✅ indicates that we have read a material 
+✅ indicates that we have read a material and believe it is worth preserving
 
 🚩 indicates that we think a material is excellent and probably worth reading
 
