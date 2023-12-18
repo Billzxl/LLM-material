@@ -21,6 +21,7 @@ There are tons of materials on LLM. To keep from getting lost in them, we built 
 - [LLM Overview](#overview)
 - [Prompt](#prompt)
   - [How to design a prompt](#How-to-design-a-prompt)
+  - [Papers](#Papers)
 - [RAG](#rag)
   - [Understanding RAG](#Understanding-RAG)
   - [How to use RAG](#How-to-use-RAG)
@@ -50,7 +51,9 @@ We will improve other aspects of the repository within 1 to 2 months
 - [(in Chinese) Prompt Engineering Guide](https://www.promptingguide.ai/zh/introduction/tips)
 - [(in Chinese) Microsoft Design Prompt](https://blog.aixcopilot.com/microsoft-official-prompt-tutorial-advanced-prompt-design-and-engineering)
 
+## Papers
 
+- [Decomposed Prompting: A Modular Approach for Solving Complex Tasks (ICLR2023)](https://arxiv.org/pdf/2210.02406.pdf)
 ---
 # RAG 🚀<a name="rag"></a>
 
@@ -74,12 +77,16 @@ We will improve other aspects of the repository within 1 to 2 months
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context (ICML2023)](https://arxiv.org/pdf/2302.00093.pdf)
 - [Making Retrieval-Augmented Language Models Robust to Irrelevant Context (ICLR2024)](https://arxiv.org/pdf/2310.01558.pdf)
 - [Retrieval-Generation Synergy Augmented Large Language Models (Arxiv)](https://arxiv.org/pdf/2310.05149.pdf)
+- [Enabling Large Language Models to Generate Text with Citations (Arxiv)](https://arxiv.org/pdf/2305.14627.pdf)
+- [Dense X Retrieval: What Retrieval Granularity Should We Use?](https://arxiv.org/pdf/2312.06648.pdf)
 
 ---
 # Fine-tune 🚀<a name="finetune"></a>
   
 ## Papers
 
+- 🔥**LoRA:** [LoRA: Low-Rank Adaptation of Large Language Models (ICLR2022)](https://arxiv.org/pdf/2106.09685.pdf)
+- [LLaMA-Adapter- Efficient Fine-tuning of Language Models with Zero-init Attention (ICLR2024)](https://arxiv.org/pdf/2303.16199.pdf)
 
 ---
 # Agent 🚀<a name="agent"></a>
