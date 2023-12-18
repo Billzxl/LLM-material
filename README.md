@@ -33,7 +33,7 @@ There are already tons of materials on LLM. To keep from getting lost in them, w
 We will gradually expand the contents of this repository, which is an ongoing long-term endeavor.
 
 ## 2023.12.18 Announcement
-We'll be focusing on updating RAG-related content for 1 to 2 weeks
+We'll be focusing on updating RAG-related materials for 1 to 2 weeks
 
 We will improve other aspects of the repository within 1 to 2 months
 # Large Language Models Overview 🚀 <a name="overview"></a>
