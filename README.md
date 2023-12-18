@@ -39,7 +39,9 @@ We will improve other aspects of the repository within 1 to 2 months
 # Large Language Models Overview 🚀 <a name="overview"></a>
 ## Fine-tune V.S. RAG
 - [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/pdf/2312.05934.pdf)
-- [(Video) Openai Talk: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&list=PLzgksPT5cGTXoNjSfbmDKsSxMbXJ4WX_1&index=1&t=1s) ✅🚩
+- [(Video) Openai Talk: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&list=PLzgksPT5cGTXoNjSfbmDKsSxMbXJ4WX_1&index=1&t=1s)  ✅🚩
+
+  **A good talk that describes the specific steps of the LLM development process**
 
 # Prompt 🚀<a name="prompt"></a>
 ## How to design a prompt
