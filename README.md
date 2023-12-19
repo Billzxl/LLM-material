@@ -13,7 +13,6 @@ There are tons of materials on LLM. To keep from getting lost in them, we built 
 🔥 indicates that a material is well-known in its field or popular now
 
 
-test
 ---
 
 ## Contents
