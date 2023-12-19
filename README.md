@@ -33,7 +33,7 @@ There are tons of materials on LLM. To keep from getting lost in them, we built 
 
 
 # For Readers <a name="forreaders"></a>
-## 2023.12.18 Announcement
+## 2023.12.19 Announcement
 We'll be focusing on updating RAG-related materials for 1 to 2 weeks
 
 We will improve other aspects of the repository within 1 to 2 months
