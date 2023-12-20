@@ -33,9 +33,9 @@ There are tons of materials on LLM. To keep from getting lost in them, we built 
 
 # For Readers <a name="forreaders"></a>
 ## News
-2023.12.20 We are in the process of organizing the LLM-related papers accepted for NeurIPS2023
-## 2023.12.19 Announcement
-We'll be focusing on updating RAG-related materials for 1 to 2 weeks
+**2023.12.20** We are in the process of organizing the LLM-related papers accepted for NeurIPS2023
+## Announcement
+**2023.12.19** We'll be focusing on updating RAG-related materials for 1 to 2 weeks
 
 We will improve other aspects of the repository within 1 to 2 months
 # Large Language Models Overview 🚀 <a name="overview"></a>
@@ -59,6 +59,7 @@ We will improve other aspects of the repository within 1 to 2 months
 ## Understanding RAG
 -  [Large Language Models and Search](https://weaviate.io/blog/llms-and-search)
 -  [ACL 2023 Tutorial: Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
+-  [(in Chinese) RAG overview](https://mp.weixin.qq.com/s?__biz=MzI0MjMyMTQ5Mw==&mid=2247488604&idx=1&sn=c49d7545ed66814391d65285dedbd4e7&chksm=e97f4566de08cc705439e2794fb3f4931190a003aa31e1fb4a4d5a9b66d0e6648afcfd2c1831#rd&spm_id_from=444.42.rich-text.link.click)
 
 ## How to use RAG
 -  [LlamaIndex talk](materials/RAG/LlamaIndex_Talk.pdf)
