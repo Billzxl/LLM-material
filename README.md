@@ -32,6 +32,8 @@ There are tons of materials on LLM. To keep from getting lost in them, we built 
 
 
 # For Readers <a name="forreaders"></a>
+## News
+2023.12.20 We are in the process of organizing the LLM-related papers accepted for NeurIPS2023
 ## 2023.12.19 Announcement
 We'll be focusing on updating RAG-related materials for 1 to 2 weeks
 
