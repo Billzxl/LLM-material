@@ -67,6 +67,7 @@ We will improve other aspects of the repository within 1 to 2 months
 -  [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#a5e2)
 
 ## Papers
+- **A Survey** [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997v1.pdf)
 - 🔥**Facebook Introduces the concept of RAG:** [Retrieval-augmented generation for knowledge-intensive nlp tasks (NIPS2020)](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 - 🔥**HyDE:** [Precise Zero-Shot Dense Retrieval without Relevance Labels (ACL2023)](https://arxiv.org/pdf/2212.10496.pdf)
 - [REALM: Retrieval-Augmented Language Model Pre-Training (ICML2020)]()
