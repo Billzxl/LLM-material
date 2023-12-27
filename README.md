@@ -70,6 +70,7 @@ We will improve other aspects of the repository within 1 to 2 months
 - **A Survey** [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997v1.pdf)
 - 🔥**Facebook Introduces the concept of RAG:** [Retrieval-augmented generation for knowledge-intensive nlp tasks (NIPS2020)](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 - 🔥**HyDE:** [Precise Zero-Shot Dense Retrieval without Relevance Labels (ACL2023)](https://arxiv.org/pdf/2212.10496.pdf)
+- [Benchmarking Large Language Models in Retrieval-Augmented Generation (AAAI2024)](https://arxiv.org/pdf/2309.01431.pdf)
 - [REALM: Retrieval-Augmented Language Model Pre-Training (ICML2020)]()
 - **may be useful:** [RA-DIT: Retrieval-Augmented Dual Instruction Tuning (ICLR2024)](https://arxiv.org/pdf/2310.01352.pdf)
 - 🔥**Explode on Twitter:** [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection(ICLR2024高分6888)](https://arxiv.org/pdf/2310.11511.pdf)
