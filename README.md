@@ -75,6 +75,7 @@ We will improve other aspects of the repository within 1 to 2 months
 - **may be useful:** [RA-DIT: Retrieval-Augmented Dual Instruction Tuning (ICLR2024)](https://arxiv.org/pdf/2310.01352.pdf)
 - 🔥**Explode on Twitter:** [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection(ICLR2024高分6888)](https://arxiv.org/pdf/2310.11511.pdf)
 - **Interesting, may be useful:** [Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory (NIPS2023)](https://arxiv.org/pdf/2305.02437.pdf)
+- **Retrieve from training data:** [Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data (ACL2022)](https://arxiv.org/pdf/2203.08773.pdf)
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Diversify Question Generation with Retrieval-Augmented Style Transfer (EMNLP2023)](https://aclanthology.org/2023.emnlp-main.104.pdf)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context (ICML2023)](https://arxiv.org/pdf/2302.00093.pdf)
