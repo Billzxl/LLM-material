@@ -53,6 +53,7 @@ We will improve other aspects of the repository within 1 to 2 months
 ## Papers
 
 - [Decomposed Prompting: A Modular Approach for Solving Complex Tasks (ICLR2023)](https://arxiv.org/pdf/2210.02406.pdf)
+- **Step-Back Prompt, useful for RAG** [Step-Back Prompting Enables Reasoning Via Abstraction in Large Language Models (ICLR2024高分888)](https://arxiv.org/pdf/2310.06117.pdf)
 ---
 # RAG 🚀<a name="rag"></a>
 
