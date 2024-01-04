@@ -79,6 +79,7 @@ We will improve other aspects of the repository within 1 to 2 months
 - [Generate rather than retrieve: Large language models are strong context generators (ICLR2023)](https://arxiv.org/pdf/2209.10063.pdf)
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Diversify Question Generation with Retrieval-Augmented Style Transfer (EMNLP2023)](https://aclanthology.org/2023.emnlp-main.104.pdf)
+- **Retrieve prompt for 0-shot task** [UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation (EMNLP2023)](https://arxiv.org/pdf/2303.08518.pdf)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context (ICML2023)](https://arxiv.org/pdf/2302.00093.pdf)
 - [Making Retrieval-Augmented Language Models Robust to Irrelevant Context (ICLR2024)](https://arxiv.org/pdf/2310.01558.pdf)
 - [Few-shot Learning with Retrieval Augmented Language Models (JMLR2022)](https://arxiv.org/pdf/2208.03299.pdf)
