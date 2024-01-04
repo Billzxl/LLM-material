@@ -80,6 +80,7 @@ We will improve other aspects of the repository within 1 to 2 months
 - [Promptagator: Few-shot Dense Retrieval From 8 Examples (ICLR2023)](https://arxiv.org/pdf/2209.11755.pdf)
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Diversify Question Generation with Retrieval-Augmented Style Transfer (EMNLP2023)](https://aclanthology.org/2023.emnlp-main.104.pdf)
+- **Rewrite query**[Query Rewriting for Retrieval-Augmented Large Language Models (EMNLP2023)](https://arxiv.org/pdf/2305.14283.pdf)
 - **Retrieve prompt for 0-shot task** [UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation (EMNLP2023)](https://arxiv.org/pdf/2303.08518.pdf)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context (ICML2023)](https://arxiv.org/pdf/2302.00093.pdf)
 - [Making Retrieval-Augmented Language Models Robust to Irrelevant Context (ICLR2024)](https://arxiv.org/pdf/2310.01558.pdf)
