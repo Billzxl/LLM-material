@@ -77,6 +77,7 @@ We will improve other aspects of the repository within 1 to 2 months
 - **Interesting, may be useful:** [Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory (NIPS2023)](https://arxiv.org/pdf/2305.02437.pdf)
 - **Retrieve from training data:** [Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data (ACL2022)](https://arxiv.org/pdf/2203.08773.pdf)
 - [Generate rather than retrieve: Large language models are strong context generators (ICLR2023)](https://arxiv.org/pdf/2209.10063.pdf)
+- [Promptagator: Few-shot Dense Retrieval From 8 Examples (ICLR2023)](https://arxiv.org/pdf/2209.11755.pdf)
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Diversify Question Generation with Retrieval-Augmented Style Transfer (EMNLP2023)](https://aclanthology.org/2023.emnlp-main.104.pdf)
 - **Retrieve prompt for 0-shot task** [UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation (EMNLP2023)](https://arxiv.org/pdf/2303.08518.pdf)
