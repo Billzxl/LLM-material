@@ -78,6 +78,8 @@ We will improve other aspects of the repository within 1 to 2 months
 - **Retrieve from training data:** [Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data (ACL2022)](https://arxiv.org/pdf/2203.08773.pdf)
 - [Generate rather than retrieve: Large language models are strong context generators (ICLR2023)](https://arxiv.org/pdf/2209.10063.pdf)
 - [Promptagator: Few-shot Dense Retrieval From 8 Examples (ICLR2023)](https://arxiv.org/pdf/2209.11755.pdf)
+- [PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter (EMNLP2023)](https://aclanthology.org/2023.emnlp-main.326.pdf)
+- [Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In (ACL2023)](https://arxiv.org/pdf/2305.17331.pdf)
 - [Understanding Retrieval Augmentation for Long-Form Question Answering (ICLR2024)](https://arxiv.org/pdf/2310.12150.pdf)
 - [Diversify Question Generation with Retrieval-Augmented Style Transfer (EMNLP2023)](https://aclanthology.org/2023.emnlp-main.104.pdf)
 - **Rewrite query**[Query Rewriting for Retrieval-Augmented Large Language Models (EMNLP2023)](https://arxiv.org/pdf/2305.14283.pdf)
