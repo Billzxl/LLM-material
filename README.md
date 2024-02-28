@@ -33,11 +33,9 @@ There are tons of materials on LLM. To keep from getting lost in them, we built 
 
 # For Readers <a name="forreaders"></a>
 ## News
-**2023.12.20** We are in the process of organizing the LLM-related papers accepted for NeurIPS2023
-## Announcement
-**2023.12.19** We'll be focusing on updating RAG-related materials for 1 to 2 weeks
 
-We will improve other aspects of the repository within 1 to 2 months
+## Announcement
+
 # Large Language Models Overview 🚀 <a name="overview"></a>
 ## Fine-tune V.S. RAG
 - [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/pdf/2312.05934.pdf)
